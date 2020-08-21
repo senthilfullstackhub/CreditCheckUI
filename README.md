@@ -1,3 +1,7 @@
+# Creditcard Eligibility Checker
+"# CreditCheckUI" 
+
+------------------------------------------------------------------------------------------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
@@ -22,5 +26,4 @@ call [http://localhost:5000](http://localhost:5000) to access it.<br />
 
 Launches the test runner for client in the interactive watch mode.<br />
 
-# Creditcard Eligibility Checker
-"# CreditCheckUI" 
+
