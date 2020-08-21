@@ -22,5 +22,5 @@ call [http://localhost:5000](http://localhost:5000) to access it.<br />
 
 Launches the test runner for client in the interactive watch mode.<br />
 
-# creditcard eligibility checker
+# Creditcard Eligibility Checker
 "# CreditCheckUI" 
